@@ -1,0 +1,63 @@
+@charset "UTF-8";
+
+
+* {
+    margin: 0;
+}
+header {
+    position: relative;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-bottom: 70px;
+}
+
+h1, label, a {
+    padding-top: 60px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    
+
+}
+
+header a:hover {
+    text-decoration: underline;
+}
+
+main, #joaninha, article, #folha, #final {
+    padding-left: 20px;
+    font-size: 2em;
+}
+
+#joaninha{
+    height: 100vh;
+    background-image: url(imagens/background001.jpg);    
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    background-attachment: fixed;
+}
+
+#joaninha2 {
+    background-color: rgba(0, 0, 0, 0.63);
+    width: 90vh;
+    height: 90vh;
+}
+
+#folha {
+height: 100vh;
+background-image: url(imagens/background002.jpg);
+background-position: center center;
+background-size: cover;
+background-repeat: no-repeat;
+color: white;
+background-attachment: fixed;
+}
+
+#folha2 {
+    background-color: rgba(0, 0, 0, 0.63);
+    width: 90vh;
+    height: 90vh;
+}
