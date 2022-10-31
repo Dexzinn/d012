@@ -25,9 +25,13 @@ header a:hover {
     text-decoration: underline;
 }
 
-main, #joaninha, article, #folha, #final, #final2 {
+#joaninha, section, #folha, #final, #final2 {
     padding-left: 20px;
     font-size: 2em;
+}
+
+#s2 {
+    padding-bottom: 100px;
 }
 
 #joaninha{
