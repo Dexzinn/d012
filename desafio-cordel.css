@@ -60,6 +60,7 @@ header a:hover {
     color: white;
     background-attachment: fixed;
     font-size: 2.0em;
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.555);
 }
 
 #joaninha2 {
@@ -83,6 +84,7 @@ background-repeat: no-repeat;
 color: white;
 background-attachment: fixed;
 font-size: 2.0em;
+box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.555);
 }
 
 #folha2 {
