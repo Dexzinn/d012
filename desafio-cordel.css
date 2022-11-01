@@ -20,7 +20,7 @@ header {
 
 header > h1 {
     font-variant: small-caps;
-    font-family: var(--fonte2);
+    font-family: var(--fonte3);
     font-size: 10vw;
 }
 html, body {
@@ -43,7 +43,7 @@ header a:hover {
     padding-bottom: 10vh;
     padding-left: 20px;
     line-height: 2em;
-    font-family: var(--fonte3);
+    font-family: var(--fonte2);
     font-size: 4vw;
 }
 
@@ -59,6 +59,7 @@ header a:hover {
     background-repeat: no-repeat;
     color: white;
     background-attachment: fixed;
+    font-size: 2.0em;
 }
 
 #joaninha2 {
@@ -68,9 +69,10 @@ header a:hover {
 }
 
 #joaninha2 {
-    min-width: 400px;
+    min-width: 200px;
     width: 50vh;
     height: 90vh;
+    font-size: 0.5em;
 }
 #folha {
 height: 100vh;
@@ -80,6 +82,7 @@ background-size: cover;
 background-repeat: no-repeat;
 color: white;
 background-attachment: fixed;
+font-size: 2.0em;
 }
 
 #folha2 {
@@ -89,9 +92,10 @@ background-attachment: fixed;
 }
 
 #folha2 {
-    min-width: 400px;
+    min-width: 200px;
     width: 50vh;
     height: 90vh;
+    font-size: 0.5em;
 }
 
 footer {
