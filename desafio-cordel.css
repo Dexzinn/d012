@@ -17,7 +17,6 @@ header > h1 {
 }
 html, body {
     min-height: 100vh;
-    background-color: gray;
 }
 h1, #header, a {
     padding-top: 60px;
@@ -34,12 +33,12 @@ header a:hover {
 
 #joaninha, section, #folha, #final, #final2 {
     padding-left: 20px;
-    font-size: 2em;
-    height: 80vh;
+    line-height: 2em;
+    
 }
 
 #s2 {
-    padding-bottom: 100px;
+    padding-bottom: 40px;
 }
 
 #joaninha{
@@ -84,13 +83,7 @@ background-attachment: fixed;
     width: 50vh;
     height: 90vh;
 }
-#final{
-    padding-bottom: 100px;
-}
 
-#final2 {
-    padding-bottom: 150px;
-}
 footer {
     padding-top: 10px;
     padding-bottom: 12px;
